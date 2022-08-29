@@ -1,0 +1,15 @@
+#user-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 12px;
+
+
+}
+
+.user {
+    border: 2px solid lightcoral;
+    background: lightblue;
+    padding: 12px;
+    border-radius: 12px;
+
+}
